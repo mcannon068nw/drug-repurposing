@@ -30,6 +30,8 @@ This feels like a good direction for 'refreshing' and 'formalizing' the data alr
 
 
 ### TO DO
+- [ ] Create graphs for dataset exploration
+- [ ] Identify new data sets
 - [ ] Mock up of new feature
 - [ ] Mock up of intended formalized field types (from interaction attributes)
 - [ ] Mock up of disease representation
